@@ -2,7 +2,7 @@
 Description:
 Define a function that takes in two non-negative integers a and b and returns the last decimal digit of a^b. Note that a and b may be very large!
 
-For example, the last decimal digit of 9^7 is 9, since 9^7=4782969
+For example, the last decimal digit of 9^7 is 9, since 9^7=4782969.
 
 You may assume that the input will always be valid.
 
